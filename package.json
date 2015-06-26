@@ -1,0 +1,27 @@
+{
+  "name": "@cnpm/demo-plugin",
+  "version": "0.0.2",
+  "description": "test demo plugin",
+  "cordova": {
+    "id": "com.tw.dev.demoplugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verazeng/testCordovaPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "vera",
+  "license": "no",
+  "bugs": {
+    "url": "https://github.com/verazeng/testCordovaPlugin/issues"
+  },
+  "homepage": "https://github.com/verazeng/testCordovaPlugin#readme"
+}
